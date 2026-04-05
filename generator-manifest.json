@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Perform the cuts specified with the Cutlist editor",
+  "description_recipe": "Perform the cuts specified with the Cutlist editor",
+  "history_source_dir": "moviecut",
+  "internal_package_name": "enigma2-plugin-extensions-moviecut",
+  "module_dir_name": "MovieCut",
+  "output_subdir": "moviecut",
+  "package_name": "enigma2-plugin-extensions-moviecut",
+  "plugin_src_rel": "moviecut",
+  "python_package": "MovieCut",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "MovieCut",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
