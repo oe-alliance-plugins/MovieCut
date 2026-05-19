@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: moviecut\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-11 15:24+0200\n"
 "PO-Revision-Date: 2012-02-15 21:20+0100\n"
 "Last-Translator: James Blond <lblond@aol.com>\n"
 "Language-Team: \n"
@@ -18,112 +18,149 @@ msgstr ""
 "X-Poedit-SearchPath-0: /200\n"
 "X-Poedit-SearchPath-1: /200/bin\n"
 
+#: ../plugin.py:75
 msgid "Advanced cut specification..."
 msgstr "Erweiterte Schnitteinstellungen"
 
+#: ../plugin.py:195
 msgid "Bad arguments"
 msgstr "ungültige Parameter"
 
+#: ../plugin.py:216
 msgid "Cancel"
 msgstr "Abbrechen"
 
+#: ../plugin.py:307
 msgid "Choose target folder"
 msgstr "Wähle Zielverzeichnis"
 
+#: ../plugin.py:198
 msgid "Couldn't open input .ap file"
 msgstr "konnte Eingangs .ap Datei nicht öffnen"
 
+#: ../plugin.py:197
 msgid "Couldn't open input .cuts file"
 msgstr "konnte Eingangs .cuts Datei nicht öffnen"
 
+#: ../plugin.py:196
 msgid "Couldn't open input .ts file"
 msgstr "konnte Eingangs .ts Datei nicht öffnen"
 
+#: ../plugin.py:201
 msgid "Couldn't open output .ap file"
 msgstr "konnte Ausgabe .ap Datei nicht öffnen"
 
+#: ../plugin.py:200
 msgid "Couldn't open output .cuts file"
 msgstr "konnte Ausgabe .cuts Datei nicht öffnen"
 
+#: ../plugin.py:199
 msgid "Couldn't open output .ts file"
 msgstr "konnte Ausgabe .ts Datei nicht öffnen"
 
+#: ../plugin.py:259
 msgid "Cut Parameter Input"
 msgstr "Schnitt Parameter Eingabe"
 
+#: ../plugin.py:251
 msgid "Cut source:"
 msgstr "Schnitt Quelle:"
 
+#: ../plugin.py:232
 msgid "Cutlist"
 msgstr "Schnittliste"
 
+#: ../plugin.py:252
 msgid "Cuts (an IN OUT IN OUT ... sequence of hour:min:sec)"
 msgstr "Schnitte (an IN OUT IN OUT ... Reihenfolge in Stunde:Minute:Sekunde)"
 
+#: ../plugin.py:195 ../plugin.py:196 ../plugin.py:197 ../plugin.py:198
+#: ../plugin.py:199 ../plugin.py:200 ../plugin.py:201 ../plugin.py:202
+#: ../plugin.py:203 ../plugin.py:204
 #, python-format
 msgid "Cutting failed for movie \"%s\""
 msgstr "Schnitt fehlgeschlagen für Film \"%s\""
 
+#: ../plugin.py:205
 #, python-format
 msgid "Cutting was aborted for movie \"%s\""
 msgstr "Schnitt wurde abgebrochen für den Film \"%s\""
 
+#: ../plugin.py:72
 msgid "Don't cut"
 msgstr "nicht schneiden"
 
+#: ../plugin.py:202
 msgid "Empty .ap file"
 msgstr "Leere .ap Datei"
 
+#: ../plugin.py:147
 #, fuzzy
 msgid "Execute cuts"
 msgstr "Schnitt ausführen..."
 
+#: ../plugin.py:30
 msgid "Execute cuts..."
 msgstr "Schnitt ausführen..."
 
+#: ../plugin.py:77
 #, python-format
 msgid "How would you like to cut \"%s\"?"
 msgstr "Wie möchtest Du schneiden \"%s\"?"
 
+#: ../plugin.py:232
 msgid "Manual specification"
 msgstr "manuelle Einstellungen"
 
+#: ../plugin.py:249
 msgid "New description:"
 msgstr "Neue Beschreibung:"
 
+#: ../plugin.py:247
 msgid "New filename:"
 msgstr "Neuer Dateiname:"
 
+#: ../plugin.py:250
 msgid "New location:"
 msgstr "Neues Verzeichnis:"
 
+#: ../plugin.py:248
 msgid "New title:"
 msgstr "Neuer Titel:"
 
+#: ../plugin.py:224
 msgid "No"
 msgstr "Nein"
 
+#: ../plugin.py:203
 msgid "No cuts specified"
 msgstr "Keine Schnitte angegeben"
 
+#: ../plugin.py:215
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:74
 msgid "Place the cut movie in a new file ending with \" cut\""
 msgstr "Anlegen einer neuen Filmdatei mit der Endung \"cut\""
 
+#: ../plugin.py:204
 msgid "Read/write error (disk full?)"
 msgstr "lese/schreib Fehler (Festplatte voll?)"
 
+#: ../plugin.py:246
 msgid "Replace original:"
 msgstr "Ersetze Original:"
 
+#: ../plugin.py:73
 msgid "Replace the original movie with the cut movie"
 msgstr "Ersetze Original Film durch geschnittenen Film"
 
+#: ../plugin.py:194
 #, python-format
 msgid "The movie \"%s\" is successfully cut"
 msgstr "Der Film \"%s\" wurde erfolgreich geschnitten"
 
+#: ../plugin.py:224
 msgid "Yes"
 msgstr "Ja"

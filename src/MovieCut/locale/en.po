@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-plugins 3.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-11 15:24+0200\n"
 "PO-Revision-Date: 2012-12-03 15:01+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,112 +17,149 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: ../plugin.py:75
 msgid "Advanced cut specification..."
 msgstr "Advanced cut specification..."
 
+#: ../plugin.py:195
 msgid "Bad arguments"
 msgstr "Bad arguments"
 
+#: ../plugin.py:216
 msgid "Cancel"
 msgstr "Cancel"
 
+#: ../plugin.py:307
 msgid "Choose target folder"
 msgstr "Choose target folder"
 
+#: ../plugin.py:198
 msgid "Couldn't open input .ap file"
 msgstr "Couldn't open input .ap file"
 
+#: ../plugin.py:197
 msgid "Couldn't open input .cuts file"
 msgstr "Couldn't open input .cuts file"
 
+#: ../plugin.py:196
 msgid "Couldn't open input .ts file"
 msgstr "Couldn't open input .ts file"
 
+#: ../plugin.py:201
 msgid "Couldn't open output .ap file"
 msgstr "Couldn't open output .ap file"
 
+#: ../plugin.py:200
 msgid "Couldn't open output .cuts file"
 msgstr "Couldn't open output .cuts file"
 
+#: ../plugin.py:199
 msgid "Couldn't open output .ts file"
 msgstr "Couldn't open output .ts file"
 
+#: ../plugin.py:259
 msgid "Cut Parameter Input"
 msgstr "Cut Parameter Input"
 
+#: ../plugin.py:251
 msgid "Cut source:"
 msgstr "Cut source:"
 
+#: ../plugin.py:232
 msgid "Cutlist"
 msgstr "Cutlist"
 
+#: ../plugin.py:252
 msgid "Cuts (an IN OUT IN OUT ... sequence of hour:min:sec)"
 msgstr "Cuts (an IN OUT IN OUT ... sequence of hour:min:sec)"
 
+#: ../plugin.py:195 ../plugin.py:196 ../plugin.py:197 ../plugin.py:198
+#: ../plugin.py:199 ../plugin.py:200 ../plugin.py:201 ../plugin.py:202
+#: ../plugin.py:203 ../plugin.py:204
 #, python-format
 msgid "Cutting failed for movie \"%s\""
 msgstr "Cutting failed for movie \"%s\""
 
+#: ../plugin.py:205
 #, python-format
 msgid "Cutting was aborted for movie \"%s\""
 msgstr "Cutting was aborted for movie \"%s\""
 
+#: ../plugin.py:72
 msgid "Don't cut"
 msgstr "Don't cut"
 
+#: ../plugin.py:202
 msgid "Empty .ap file"
 msgstr "Empty .ap file"
 
+#: ../plugin.py:147
 #, fuzzy
 msgid "Execute cuts"
 msgstr "Execute cuts..."
 
+#: ../plugin.py:30
 msgid "Execute cuts..."
 msgstr "Execute cuts..."
 
+#: ../plugin.py:77
 #, python-format
 msgid "How would you like to cut \"%s\"?"
 msgstr "How would you like to cut \"%s\"?"
 
+#: ../plugin.py:232
 msgid "Manual specification"
 msgstr "Manual specification"
 
+#: ../plugin.py:249
 msgid "New description:"
 msgstr "New description:"
 
+#: ../plugin.py:247
 msgid "New filename:"
 msgstr "New filename:"
 
+#: ../plugin.py:250
 msgid "New location:"
 msgstr "New location:"
 
+#: ../plugin.py:248
 msgid "New title:"
 msgstr "New title:"
 
+#: ../plugin.py:224
 msgid "No"
 msgstr "No"
 
+#: ../plugin.py:203
 msgid "No cuts specified"
 msgstr "No cuts specified"
 
+#: ../plugin.py:215
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:74
 msgid "Place the cut movie in a new file ending with \" cut\""
 msgstr "Place the cut movie in a new file ending with \" cut\""
 
+#: ../plugin.py:204
 msgid "Read/write error (disk full?)"
 msgstr "Read/write error (disk full?)"
 
+#: ../plugin.py:246
 msgid "Replace original:"
 msgstr "Replace original:"
 
+#: ../plugin.py:73
 msgid "Replace the original movie with the cut movie"
 msgstr "Replace the original movie with the cut movie"
 
+#: ../plugin.py:194
 #, python-format
 msgid "The movie \"%s\" is successfully cut"
 msgstr "The movie \"%s\" is successfully cut"
 
+#: ../plugin.py:224
 msgid "Yes"
 msgstr "Yes"

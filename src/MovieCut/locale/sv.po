@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MovieCut\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-16 19:06+0430\n"
+"POT-Creation-Date: 2026-04-11 15:24+0200\n"
 "PO-Revision-Date: 2012-02-26 22:23+0100\n"
 "Last-Translator: Anders Holst <aho@sics.se>\n"
 "Language-Team: none\n"
@@ -14,112 +14,149 @@ msgstr ""
 "X-Poedit-Country: SWEDEN\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
+#: ../plugin.py:75
 msgid "Advanced cut specification..."
 msgstr "Avancerad klipp-specifikation..."
 
+#: ../plugin.py:195
 msgid "Bad arguments"
 msgstr "Felaktiga argument"
 
+#: ../plugin.py:216
 msgid "Cancel"
 msgstr "Avbryt"
 
+#: ../plugin.py:307
 msgid "Choose target folder"
 msgstr "Välj mål-katalog"
 
+#: ../plugin.py:198
 msgid "Couldn't open input .ap file"
 msgstr "Kan inte öppna originalets .ap-fil"
 
+#: ../plugin.py:197
 msgid "Couldn't open input .cuts file"
 msgstr "Kan inte öppna originalets .cuts-fil"
 
+#: ../plugin.py:196
 msgid "Couldn't open input .ts file"
 msgstr "Kan inte öppna originalets .ts-fil"
 
+#: ../plugin.py:201
 msgid "Couldn't open output .ap file"
 msgstr "Kan inte öppna resultatets .ap-fil"
 
+#: ../plugin.py:200
 msgid "Couldn't open output .cuts file"
 msgstr "Kan inte öppna resultatets .cuts-fil"
 
+#: ../plugin.py:199
 msgid "Couldn't open output .ts file"
 msgstr "Kan inte öppna resultatets .ts-fil"
 
+#: ../plugin.py:259
 msgid "Cut Parameter Input"
 msgstr "Klipp-parametrar"
 
+#: ../plugin.py:251
 msgid "Cut source:"
 msgstr "Klipp-källa:"
 
+#: ../plugin.py:232
 msgid "Cutlist"
 msgstr "Klipp-lista"
 
+#: ../plugin.py:252
 msgid "Cuts (an IN OUT IN OUT ... sequence of hour:min:sec)"
 msgstr "Klipp (sekvens av IN UT IN UT ... på formen H:M:S)"
 
+#: ../plugin.py:195 ../plugin.py:196 ../plugin.py:197 ../plugin.py:198
+#: ../plugin.py:199 ../plugin.py:200 ../plugin.py:201 ../plugin.py:202
+#: ../plugin.py:203 ../plugin.py:204
 #, python-format
 msgid "Cutting failed for movie \"%s\""
 msgstr "Klippning misslyckades för \"%s\""
 
+#: ../plugin.py:205
 #, python-format
 msgid "Cutting was aborted for movie \"%s\""
 msgstr "Klippning avbruten för filmen \"%s\""
 
+#: ../plugin.py:72
 msgid "Don't cut"
 msgstr "Klipp inte"
 
+#: ../plugin.py:202
 msgid "Empty .ap file"
 msgstr "Tom .ap-fil"
 
+#: ../plugin.py:147
 #, fuzzy
 msgid "Execute cuts"
 msgstr "Utför klipp..."
 
+#: ../plugin.py:30
 msgid "Execute cuts..."
 msgstr "Utför klipp..."
 
+#: ../plugin.py:77
 #, python-format
 msgid "How would you like to cut \"%s\"?"
 msgstr "Hur vill du klippa \"%s\"?"
 
+#: ../plugin.py:232
 msgid "Manual specification"
 msgstr "Manuell inmatning"
 
+#: ../plugin.py:249
 msgid "New description:"
 msgstr "Ny beskrivning:"
 
+#: ../plugin.py:247
 msgid "New filename:"
 msgstr "Nytt filnamn:"
 
+#: ../plugin.py:250
 msgid "New location:"
 msgstr "Ny katalog:"
 
+#: ../plugin.py:248
 msgid "New title:"
 msgstr "Ny titel:"
 
+#: ../plugin.py:224
 msgid "No"
 msgstr "Nej"
 
+#: ../plugin.py:203
 msgid "No cuts specified"
 msgstr "Inga klipp angivna"
 
+#: ../plugin.py:215
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:74
 msgid "Place the cut movie in a new file ending with \" cut\""
 msgstr "Lägg den klippta filmen i en ny fil med \" cut\" på slutet"
 
+#: ../plugin.py:204
 msgid "Read/write error (disk full?)"
 msgstr "Läs/skriv-fel (disken full?)"
 
+#: ../plugin.py:246
 msgid "Replace original:"
 msgstr "Ersätt originalet:"
 
+#: ../plugin.py:73
 msgid "Replace the original movie with the cut movie"
 msgstr "Ersätt originalet med den klippta filmen"
 
+#: ../plugin.py:194
 #, python-format
 msgid "The movie \"%s\" is successfully cut"
 msgstr "Filmen \"%s\" är färdigklippt"
 
+#: ../plugin.py:224
 msgid "Yes"
 msgstr "Ja"
